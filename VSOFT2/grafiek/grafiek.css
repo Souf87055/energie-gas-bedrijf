@@ -1,0 +1,43 @@
+body{
+ background-color: #fff;
+}
+
+#logo{
+    height: 100%;
+    width: 15%;
+}
+
+h2{
+    text-align: center;
+}
+
+p{
+    font-weight: bold;
+    color: black;
+}
+
+.container-fluid {
+    background-color: blue;
+}
+
+
+.navbar-light .navbar-nav .nav-link{
+    color: #fff;
+}
+
+.navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .show>.nav-link{
+    color: #fff;
+}
+
+#logoutLink{
+   position: absolute;
+   right: 5vh;
+}
+
+.infobackground{
+    background-color: rgb(80, 80, 185);
+    margin: auto;
+    width: 90%;
+    height: 25vh;
+}
+

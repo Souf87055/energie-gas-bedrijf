@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>login Page</title>
+	<link rel="stylesheet" type="text/css" href="bootstrap.css">
+</head>
+<body>
+	<div class="container vh-100">
+		<div class="row justify-content-center h-100">
+			<div class="card w-25 my-auto shadow">
+				<div class="card-header text-center bg-primary text-white">
+					<h2>Login form</h2>
+				</div>
+				<div class="card-body">
+					<form action="login.php" method="POST">
+						<div class="form-group">
+							<label for="email">Email</label>
+							<input type="email" id="email" class="form-control" name="email" required />
+						</div>
+						<div class="form-group">
+							<label for="wachtwoord">Wachtwoord</label>
+							<input type="wachtwoord" id="wachtwoord" class="form-control" name="wachtwoord" required />
+						</div>
+						<input type="submit" class="btn btn-primary w-100" value="Login" name="">
+					</form>
+				</div>
+				<div class="card-footer text-right">
+					<small>&copy; Soufiane Tarifit</small>
+				</div>
+			</div>
+		</div>
+	</div>
+</body>
+</html>

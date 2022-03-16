@@ -1,0 +1,46 @@
+body{
+
+}
+
+#logo{
+    height: 100%;
+    width: 15%;
+}
+
+.container-fluid {
+    background-color: blue;
+}
+
+
+.navbar-light .navbar-nav .nav-link{
+    color: #fff;
+}
+
+.navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .show>.nav-link{
+    color: #fff;
+}
+
+#registreerlink{
+   position: absolute;
+   right: 5vh;
+}
+
+.infobackground{
+    background-color: rgb(80, 80, 185);
+    margin: auto;
+    width: 90%;
+    height: 25vh;
+}
+
+p{
+    text-align: center;
+    color: #fff;
+    position: relative;
+    top: 5%;
+    font-size: xx-large;
+}
+
+#logoutLink{
+    position: absolute;
+    right: 5vh;
+ }

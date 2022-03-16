@@ -1,0 +1,10 @@
+klant gegevens: klant1@gmail.com - ww: hallo123
+
+admin gegevens: admin@gmail.com - ww: Admin
+
+phpmyadmin gegevens: 87055 - ww: J1Souf010 
+	
+(log in op de account en ga naar de
+ database "beroepscollective" en dan klik op data 
+en dan scroll helemaal naar beneden om je ingevoegde data 
+dat je via de invoer leverancier pagina hebt ingevoegd)
